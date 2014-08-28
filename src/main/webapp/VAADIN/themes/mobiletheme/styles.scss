@@ -1,0 +1,12 @@
+@import "addons.scss";
+
+@include addons;
+
+.stylishlabel {
+	color: red;
+    font-style: italic;
+}
+
+.slideshow .v-touchkit-navpanel-container {
+	background: black;
+}
