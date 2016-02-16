@@ -1,6 +1,6 @@
 ### book-examples-vaadin7
 -----------------------
-![Vaadin7 bookExample]("src\main\webapp\images\vaadin7.png?raw=true")
+![Vaadin7 bookExample]("https://github.com/BillHan/book-examples-v7/blob/master/src/main/webapp/images/vaadin7.png")
 
 > I have converted this project from ivy to maven.
 > @[Vaadin](www.vaadin.com).
