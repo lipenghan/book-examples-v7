@@ -1,7 +1,7 @@
 ### book-examples-vaadin7
 -----------------------
 
-![Vaadin7 bookExample](vaadin7.png)
+![Vaadin7 bookExample](src/main/webapp/images/vaadin7.png)
 
 > I have converted this project from ivy to maven.
 > @[Vaadin](www.vaadin.com).
